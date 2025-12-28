@@ -17,23 +17,15 @@ Building solutions at the intersection of Machine Learning, Web Development, and
 
 ### Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### DevSecOps
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Fortify](https://img.shields.io/badge/Fortify-FF6600?style=flat-square&logo=fortify&logoColor=white)
-![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat-square&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Fortify](https://img.shields.io/badge/Fortify-FF6600?style=flat-square&logo=fortify&logoColor=white) ![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat-square&logo=blackduck&logoColor=white)
 
 ---
 
@@ -51,4 +43,10 @@ Building solutions at the intersection of Machine Learning, Web Development, and
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdff87554&layout=compact&theme=transparent&hide_border=true">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fdff87554&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=fdff87554&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=fdff87554&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=fdff87554&theme=transparent&hide_border=true">
+  </picture>
+</a>
